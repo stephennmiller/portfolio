@@ -1,0 +1,27 @@
+.hero-section {
+    background-image: url('./Images/istockphoto-1162040662-612x612.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* 100% of the viewport height */
+    display: flex;
+    align-items: top; 
+    justify-content: center; /* This centers the text horizontally */
+    color: #000000;
+    padding-top: 60px; /* Adjust this value as needed to push the content down */
+    border-radius: 50%; /* This makes the div circular */
+    width: 70vh; /* Makes the width equal to half the height of the viewport */
+    height: 70vh; /* Adjust height to keep the aspect ratio as a circle */
+    overflow: hidden; /* This will hide everything that goes outside the circular area */
+    margin: auto; /* This will center the circle horizontally if the parent container allows it */
+    position: relative; /* To position the text within */
+  }
+  
+  .container {
+    text-align: center;
+  }
+
+  .about-me {
+    background-image: url('./Images/IMG_7590.png');
+    background-position: left;
+    background-size:contain;
+  }
