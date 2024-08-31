@@ -1,1 +1,1 @@
-your momma is a hoe
+na
